@@ -1,4 +1,5 @@
 # XKB-French-QWERTY-Keyboard-Layout
+ - For PC-105 US standard keyboard.
  - Work well on Ubuntu, Debian and CentOS.
  - For Windows and Mac OS version, see below.
 
