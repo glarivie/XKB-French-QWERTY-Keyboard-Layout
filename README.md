@@ -1,5 +1,6 @@
 # XKB-French-QWERTY-Keyboard-Layout
-Work well on Ubuntu, Debian and CentOS, etc...
+ - Work well on Ubuntu, Debian and CentOS.
+ - For Windows and Mac OS version, see below.
 
 ### How it looks ?
 
@@ -22,4 +23,15 @@ setxkbmap us qwerty-fr
 sudo service keyboard-setup restart
 ```
 
-It's done !
+### How to use on Mac OS X ?
+
+```
+cd /tmp
+git clone https://github.com/hqro/XKB-French-QWERTY-Keyboard-Layout .
+cp -R ./MACOS/qwerty-fr.bundle ~/Library/Keyboard Layouts/
+```
+
+### How to use on Windows ?
+
+ - Download [this zipped archive](http://marin.jb.free.fr/qwerty-fr/win-qwerty-fr.zip)
+ - Extract it and run **setup.exe**
