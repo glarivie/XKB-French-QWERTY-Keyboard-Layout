@@ -1,6 +1,10 @@
 # XKB-French-QWERTY-Keyboard-Layout
 Work well on Ubuntu, Debian and CentOS, etc...
 
+### How it looks ?
+
+![qwerty-fr layout](http://marin.jb.free.fr/qwerty-fr/qwerty-fr-keymap.gif)
+
 
 ### How to use on Debian / Ubuntu ?
 
